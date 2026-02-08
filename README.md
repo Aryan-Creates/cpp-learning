@@ -2,24 +2,17 @@
 
 This repository contains my learning and practice of **C++ fundamentals**.
 
-The purpose of this repo is to build a strong foundation in:
+The goal of this repository is to build a solid understanding of:
 - C++ syntax
-- Control flow
-- Functions
-- Basic problem-solving patterns
+- Basic programming constructs
+- Writing and structuring simple programs
 
-This repository focuses only on **language fundamentals**, not advanced data structures.
+This is a **learning-focused repository**, created while getting comfortable
+with the C++ language and development environment.
 
-## Topics Covered
-- Input / Output
-- Data types
-- Operators
-- Conditional statements
-- Loops
-- Functions
+## Notes
+- This repository represents my foundational phase in C++
+- More advanced concepts and problem-solving are practiced separately
+- The code here reflects incremental learning and experimentation
 
-## Note
-Advanced topics like Data Structures, STL, and OOP
-are practiced separately in a dedicated DSA repository.
-
-This repo represents my initial C++ learning phase.
+This repository is continuously updated as I learn.
