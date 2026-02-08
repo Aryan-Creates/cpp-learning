@@ -1,23 +1,25 @@
-# C++ & DSA Learning Journey
+# C++ Fundamentals
 
-This repository documents my journey of learning **C++ fundamentals** and **Data Structures & Algorithms**.
+This repository contains my learning and practice of **C++ fundamentals**.
 
-## Goals
-- Build strong problem-solving fundamentals
-- Prepare for technical interviews and competitive programming
-- Write clean and understandable C++ code
+The purpose of this repo is to build a strong foundation in:
+- C++ syntax
+- Control flow
+- Functions
+- Basic problem-solving patterns
 
-## Structure
-- Basics (syntax, I/O, control flow)
-- Functions & arrays
-- Core DSA topics (arrays, recursion, linked lists, etc.)
+This repository focuses only on **language fundamentals**, not advanced data structures.
 
-## Language
-- C++
+## Topics Covered
+- Input / Output
+- Data types
+- Operators
+- Conditional statements
+- Loops
+- Functions
 
-## Notes
-- Each folder represents a topic
-- Code is written for learning and clarity
-- Time & space complexity mentioned where applicable
+## Note
+Advanced topics like Data Structures, STL, and OOP
+are practiced separately in a dedicated DSA repository.
 
-Started in 1st year of B.Tech.
+This repo represents my initial C++ learning phase.
